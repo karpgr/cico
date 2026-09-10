@@ -115,7 +115,7 @@ a:hover {
   margin: 0;
   line-height: 1.6;
   font-size: 15px;
-  color: white;
+  color: black;
 }.flat-page .content .info button {
   border: 0;
   border-radius: 20px;
@@ -123,7 +123,7 @@ a:hover {
   margin-top: 30px;
   cursor: pointer;
   color: #FFF;
-  background-color: ваш цвет;
+  background-color: #ffd6fe;
 }.flat-page .content .image img {
   max-width: 120%;
   margin-top: 50px;
