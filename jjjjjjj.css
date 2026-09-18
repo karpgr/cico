@@ -144,7 +144,7 @@ html,body {
   padding-bottom: 200px;
   overflow: hidden;
   position: relative;
-  width: 80%;
+  width: 100%;
   background-image: url(https://raw.githack.com/karpgr/cico/main/%D0%BA%D0%BE%D1%821.jpg);
   background-attachment: fixed;
   background-size: cover;
