@@ -10,7 +10,7 @@ html,body {
 .box {
   width: 80%;
   position: absolute;
-  margin: 0 auto;
+  margin-top: -450px;
   overflow: auto;
 }
 #main {
