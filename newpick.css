@@ -118,12 +118,12 @@ html, body {
  opacity: 0.70;
 }
 #flat .parallax-one {
- padding-top: 120px;
- padding-bottom: 20px;
+ padding-top: 200px;
+ padding-bottom: 200px;
  overflow: hidden;
  position: relative;
  width: 100%;
- background-image: url("https://raw.githack.com/karpgr/cico/main/%D0%BA%D0%BE%D1%82.jpg");
+ background-image: url("https://raw.githack.com/karpgr/cico/ed9830dcc4cb07f180a41e5745728444d559766f/%D0%BA%D0%BE%D1%82%D1%8B.jpg");
  background-attachment: fixed;
  background-size: cover;
  -moz-background-size: cover;
