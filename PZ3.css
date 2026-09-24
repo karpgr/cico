@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat:300,900');
+@import url('https://fonts.googleapis.com/css?family=Arimo:300,900');
 ::-webkit-scrollbar {
   width: 13px;
 }
@@ -26,7 +26,7 @@ html {
     width: 100%;
     max-width: 100%;
     overflow-x: hidden;
-    background-color: #81f7dc;
+    background-color: #56785a;
   }     
 *{
   margin: 0;
@@ -48,7 +48,7 @@ ul {
 .nav {
   position: fixed;
   display: block;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Arimo', sans-serif;
   font-size: 12px;
   transform: rotate(-90deg);
   margin-left: 0px;
@@ -68,12 +68,12 @@ li:hover  {
    transition: width 0.3s ease-in-out;
    width: 8.3vw;
 }
-#one {background-color:#4169E1;}
-#two {background-color:#302c2d;}
-#three {background-color:#4169E1;}
-#four {background-color:#302c2d;}
-#five {background-color:#4169E1;}
-#six {background-color:#302c2d;}
+#one {background-color:#000;}
+#two {background-color:#0a23a3;}
+#three {background-color:#de1623;}
+#four {background-color:#fc6dcc;}
+#five {background-color:#f0ce9c;}
+#six {background-color:#38733e;}
 section {
   position: relative;
   display: block;
@@ -141,7 +141,7 @@ section .text {
 }
   
 #title {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Arimo', sans-serif;
   font-size: 9vw;
   margin-top: 31vw;
   margin-left: 17vw;
@@ -163,7 +163,7 @@ section .text {
   }
   
 .uppertext {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Arimo', sans-serif;
   font-size: 2.9vw;
   letter-spacing: 0.1vw;
   margin-top: 5vw;
@@ -182,7 +182,7 @@ section .text {
   }
   .scroll {
   position: relative;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Arimo', sans-serif;
   font-size: 3vw;
   font-weight: 900;
   letter-spacing: 0.3vw;
@@ -203,14 +203,28 @@ section .text {
   width: 70vw;
   margin-left: 18vw;
   margin-top: 30vw;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Arimo', sans-serif;
   font-size: 2.8vw;
   line-height: 3.4vw;
   letter-spacing: 0.3vw;
   color: black;
 }
 #one2 {
-  background: linear-gradient(to bottom right, #00b3ff, #4966f5);
+  background: linear-gradient(to bottom right, #000, #fff);
+}
+#two2 {
+  background: linear-gradient(to bottom right, #0a23a3, #6e6e6d);
+}
+#three2 {
+  background: linear-gradient(to bottom right, #de1623, #f57327);
+}
+#four2 {
+  background: linear-gradient(to bottom right, #fc6dcc, #faeb64);
+}
+#five2 {
+  background: linear-gradient(to bottom right, #f0ce9c, #fff634427
+#six2 {
+  background: linear-gradient(to bottom right, #38733e, #72c275);
 }
 .poster {
   width: 70vw;
@@ -256,12 +270,12 @@ li:hover  {
    transition: width 0.3s ease-in-out;
    width: 80px;
 }
-#one {background-color:#4169E1;}
-#two {background-color:#302c2d;}
-#three {background-color:#4169E1;}
-#four {background-color:#302c2d;}
-#five {background-color:#4169E1;}
-#six {background-color:#302c2d;}
+#one {background-color:#000;}
+#two {background-color:#0a23a3;}
+#three {background-color:#de1623;}
+#four {background-color:#fc6dcc;}
+#five {background-color:#f0ce9c;}
+#six {background-color:#38733e;}
 section {
   position: relative;
   margin-left: -10px;
@@ -334,7 +348,7 @@ img {
   
 #title {
   position: fixed;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Arimo', sans-serif;
   font-size: 4.31vw;
   margin-top: 25%;
   margin-left: 2%;
@@ -356,7 +370,7 @@ img {
   }
   
 .uppertext {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Arimo', sans-serif;
   font-size: 1vw;
   letter-spacing: 0.25vw;
   margin-top: 2.63vw;
@@ -376,7 +390,7 @@ img {
   
 .scroll {
   position: relative;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Arimo', sans-serif;
   font-size: 0.80vw;
   font-weight: 900;
   letter-spacing: 0.1vw;
@@ -399,14 +413,28 @@ img {
   width: 29.28vw;
   margin-left: 25px;
   margin-top: 4vw;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Arimo', sans-serif;
   font-size: 1.31vw;
   line-height: 2vw;
   letter-spacing: 0.2vw;
   color: black;
 }
 #one2 {
-  background: linear-gradient(to bottom right, #00b3ff, #4966f5);
+  background: linear-gradient(to bottom right, #000, #fff);
+}
+#two2 {
+  background: linear-gradient(to bottom right, #0a23a3, #6e6e6d);
+}
+#three2 {
+  background: linear-gradient(to bottom right, #de1623, #f57327);
+}
+#four2 {
+  background: linear-gradient(to bottom right, #fc6dcc, #faeb64);
+}
+#five2 {
+  background: linear-gradient(to bottom right, #f0ce9c, #fff634427
+#six2 {
+  background: linear-gradient(to bottom right, #38733e, #72c275);
 }
 .poster {
   overflow: hidden;
