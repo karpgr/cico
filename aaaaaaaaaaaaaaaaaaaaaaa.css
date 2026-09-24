@@ -68,8 +68,8 @@ li:hover  {
    transition: width 0.3s ease-in-out;
    width: 8.3vw;
 }
-#one {background-color:#000;}
-#two {background-color:#0a23a3;}
+#one {background-color:#747c82;}
+#two {background-color:#1573bf;}
 #three {background-color:#de1623;}
 #four {background-color:#fc6dcc;}
 #five {background-color:#f0ce9c;}
@@ -210,10 +210,10 @@ section .text {
   color: black;
 }
 #one {
-  background: linear-gradient(to bottom right, #000, #fff);
+  background: linear-gradient(to bottom right, #747c82, #e6f1fa);
 }
 #two {
-  background: linear-gradient(to bottom right, #0a23a3, #6e6e6d);
+  background: linear-gradient(to bottom right, #1573bf, #305666);
 }
 #three {
   background: linear-gradient(to bottom right, #de1623, #f57327);
@@ -271,8 +271,8 @@ li:hover  {
    transition: width 0.3s ease-in-out;
    width: 80px;
 }
-#one {background-color:#000;}
-#two {background-color:#0a23a3;}
+#one {background-color:#747c82;}
+#two {background-color:#1573bf;}
 #three {background-color:#de1623;}
 #four {background-color:#fc6dcc;}
 #five {background-color:#f0ce9c;}
@@ -421,10 +421,10 @@ img {
   color: black;
 }
 #one {
-  background: linear-gradient(to bottom right, #000, #fff);
+  background: linear-gradient(to bottom right, #747c82, #e6f1fa);
 }
 #two {
-  background: linear-gradient(to bottom right, #0a23a3, #6e6e6d);
+  background: linear-gradient(to bottom right, #1573bf, #305666);
 }
 #three {
   background: linear-gradient(to bottom right, #de1623, #f57327);
