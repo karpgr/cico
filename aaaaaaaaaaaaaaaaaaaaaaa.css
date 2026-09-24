@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Arimo:300,900');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,900');
 ::-webkit-scrollbar {
   width: 13px;
 }
@@ -48,7 +48,7 @@ ul {
 .nav {
   position: fixed;
   display: block;
-  font-family: 'Arimo', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 12px;
   transform: rotate(-90deg);
   margin-left: 0px;
@@ -141,7 +141,7 @@ section .text {
 }
   
 #title {
-  font-family: 'Arimo', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 9vw;
   margin-top: 31vw;
   margin-left: 17vw;
@@ -163,7 +163,7 @@ section .text {
   }
   
 .uppertext {
-  font-family: 'Arimo', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 2.9vw;
   letter-spacing: 0.1vw;
   margin-top: 5vw;
@@ -182,7 +182,7 @@ section .text {
   }
   .scroll {
   position: relative;
-  font-family: 'Arimo', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 3vw;
   font-weight: 900;
   letter-spacing: 0.3vw;
@@ -203,7 +203,7 @@ section .text {
   width: 70vw;
   margin-left: 18vw;
   margin-top: 30vw;
-  font-family: 'Arimo', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 2.8vw;
   line-height: 3.4vw;
   letter-spacing: 0.3vw;
@@ -349,7 +349,7 @@ img {
   
 #title {
   position: fixed;
-  font-family: 'Arimo', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 4.31vw;
   margin-top: 25%;
   margin-left: 2%;
@@ -371,7 +371,7 @@ img {
   }
   
 .uppertext {
-  font-family: 'Arimo', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 1vw;
   letter-spacing: 0.25vw;
   margin-top: 2.63vw;
@@ -391,7 +391,7 @@ img {
   
 .scroll {
   position: relative;
-  font-family: 'Arimo', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 0.80vw;
   font-weight: 900;
   letter-spacing: 0.1vw;
@@ -414,7 +414,7 @@ img {
   width: 29.28vw;
   margin-left: 25px;
   margin-top: 4vw;
-  font-family: 'Arimo', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 1.31vw;
   line-height: 2vw;
   letter-spacing: 0.2vw;
