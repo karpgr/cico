@@ -66,7 +66,7 @@ width: 95%;
   transform: translate(-50%, -50%);
   width: 100%;
   text-align: center;
-  color: #07f50f;
+  color: #fff;
 }
 #intro h3 {
   font-family: 'Montserrat', serif;
@@ -75,7 +75,7 @@ width: 95%;
   font-weight: 400;
   padding-bottom: 7px;
   transition: .7s ease-in-out;
-  color: #07f50f;
+  color: #fff;
 }
 #intro a {
   font-family: 'Montserrat', sans-serif;
@@ -86,7 +86,7 @@ width: 95%;
   cursor: pointer;
   left: 0;
   top: 0;
-  color: #07f50f;
+  color: #ffff;
   background-color: #2d8205;
   border: 1px solid;
 }
@@ -112,7 +112,7 @@ width: 95%;
   width: 121px !important;
 }
 .loader2 {
- color: #FFFFFF;
+ color: #3FAE6A;
   border: 1px solid #3FAE6A !important;
 } 
 }
