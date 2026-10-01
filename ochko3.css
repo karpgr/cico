@@ -80,13 +80,15 @@ width: 95%;
 #intro a {
   font-family: 'Montserrat', sans-serif;
   font-size: 14px;
-  border: 1px solid rgba(96, 125, 139,1.0);
   padding: 10px 30px;
   position: absolute;
   transition: .3s ease-in-out;
   cursor: pointer;
   left: 0;
   top: 0;
+  color: #FFFFFF;
+  background-color: #D94B4B;
+  border: 1px solid #D94B4B;
 }
 #button-container {
   height: 40px;
@@ -103,15 +105,16 @@ width: 95%;
   top: 0px;
   left: 0;
   position: absolute;
-  background: #55D6C2;
+  background: #3FAE6A;
   transition: .3s ease-in-out;
 }
 .loader {
   width: 121px !important;
 }
 .loader2 {
-  color: #000;
-  border: 1px solid rgba(255, 255, 240) !important; 
+ color: #FFFFFF;
+  border: 1px solid #3FAE6A !important;
+} 
 }
 .fuller {
   margin-left: -8%;
