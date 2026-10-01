@@ -93,7 +93,7 @@ width: 95%;
   width: 121px;
   position: absolute;
   left: 50%;
-  top: 150%;
+  top: 180%;
   transform: translate(-50%, 50%);
   transition: .3s ease-in-out;
 }
