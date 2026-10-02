@@ -194,7 +194,7 @@ width: 95%;
   transition: .5s ease-in;
   z-index: 2000;
 }.reveal {
-  height: 640px !important;
+  height: 610px !important;
 }
 #nav-container {
   position: absolute;
